@@ -21,4 +21,6 @@
 ![Database](https://img.shields.io/badge/Databases-PostgreSQL-informational?style=flat&logo=Database&logoColor=white&color=2bbc8a)
 ![Database](https://img.shields.io/badge/Databases-MongoDB-informational?style=flat&logo=Database&logoColor=white&color=2bbc8a)
 
+## Stats
+
 ![Smaug GitHub stats](https://github-readme-stats.vercel.app/api?username=SmaugDev&show_icons=true&theme=radical)
