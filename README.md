@@ -23,4 +23,4 @@
 
 ## Stats
 
-![Smaug GitHub stats](https://github-readme-stats.vercel.app/api?username=SmaugDev&show_icons=true&theme=radical)
+![Smaug GitHub stats](https://github-readme-stats.vercel.app/api?username=Smaug6739&show_icons=true&theme=radical)
