@@ -13,6 +13,7 @@
 
 ![Code](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
 ![Code](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
+![Code](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a) 
 ![Code](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
 ![Code](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
 ![Code](https://img.shields.io/badge/Code-Vue.js-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
