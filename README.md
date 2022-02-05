@@ -1,7 +1,7 @@
 # Smaug 6739
 
 👋 Hi, my name is Raphael Veauville  
-👀 I like programming, sciences and tennis  
+👀 I like technology, sciences and programming  
 📗 I’m currently learning C++  
 🗨️ If you want to chat with me you can do it [on discord](https://discord.com/users/611468402263064577) or by mail [raphael.veauville@gmail.com](mailto:raphael.veauville@gmail.com)
 
