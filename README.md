@@ -8,6 +8,7 @@
 ## Technologies & tools
 
 ![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=OS&logoColor=white&color=2bbc8a)
+![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=OS&logoColor=white&color=2bbc8a)
 ![Editor](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=Editor&logoColor=white&color=2bbc8a)
 ![Editor](https://img.shields.io/badge/Editor-Inteliji%20IDEA-informational?style=flat&logo=Editor&logoColor=white&color=2bbc8a)
 ![Editor](https://img.shields.io/badge/Editor-Goland%20IDEA-informational?style=flat&logo=Editor&logoColor=white&color=2bbc8a)
