@@ -3,7 +3,8 @@
 👋 Hi, my name is Raphael Veauville  
 👀 I like technology, sciences and programming  
 📗 I’m currently learning C++ and Go  
-🗨️ If you want to chat with me you can do it [on discord](https://discord.com/users/611468402263064577) or by mail [raphael.veauville@gmail.com](mailto:raphael.veauville@gmail.com)
+🗨️ If you want to chat with me you can do it [on discord](https://discord.com/users/611468402263064577) or by mail [raphael.veauville@gmail.com](mailto:raphael.veauville@gmail.com)  
+🎈 Ask me about anything, I am happy to help.
 
 Currently i'm working on [Eodomius](https://github.com/Eodomius) : An instant chat with microservices arch
 
