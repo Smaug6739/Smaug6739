@@ -2,7 +2,7 @@
 
 👋 Hi, my name is Raphael Veauville  
 👀 I like technology, sciences and programming  
-📗 I’m currently learning C++  
+📗 I’m currently learning C++ and Go
 🗨️ If you want to chat with me you can do it [on discord](https://discord.com/users/611468402263064577) or by mail [raphael.veauville@gmail.com](mailto:raphael.veauville@gmail.com)
 
 ## Technologies & tools
@@ -10,10 +10,13 @@
 ![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=OS&logoColor=white&color=2bbc8a)
 ![Editor](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=Editor&logoColor=white&color=2bbc8a)
 ![Editor](https://img.shields.io/badge/Editor-Inteliji%20IDEA-informational?style=flat&logo=Editor&logoColor=white&color=2bbc8a)
+![Editor](https://img.shields.io/badge/Editor-Goland%20IDEA-informational?style=flat&logo=Editor&logoColor=white&color=2bbc8a)
 
 ![Code](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
 ![Code](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
 ![Code](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a) 
+![Code](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a) 
+![Code](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a) 
 ![Code](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
 ![Code](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
 ![Code](https://img.shields.io/badge/Code-Vue.js-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
