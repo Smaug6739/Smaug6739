@@ -41,4 +41,4 @@
 
 ## 🔗 Contact
 
-You can contact me on discord ([Smaug#6739](https://discord.com/users/611468402263064577)) or by email ([raphael.veauville@gmail.com](mailto:raphael.veauville@gmail.com)). Ask me about anything, I am happy to help 🤗
+**You can contact me on discord ([Smaug#6739](https://discord.com/users/611468402263064577)) or by email ([raphael.veauville@gmail.com](mailto:raphael.veauville@gmail.com)). Ask me about anything, I am happy to help 🤗**
