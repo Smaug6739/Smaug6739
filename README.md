@@ -25,8 +25,8 @@
 ![Code](https://img.shields.io/badge/Code-Vue.js-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
 
 ![Database](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=Databases&logoColor=white&color=2bbc8a)
-![Database](https://img.shields.io/badge/Databases-PostgreSQL-informational?style=flat&logo=Database&logoColor=white&color=2bbc8a)
-![Database](https://img.shields.io/badge/Databases-MongoDB-informational?style=flat&logo=Database&logoColor=white&color=2bbc8a)
+![Database](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=Database&logoColor=white&color=2bbc8a)
+![Database](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=Database&logoColor=white&color=2bbc8a)
 
 ## 🔥 Open source projects
 
