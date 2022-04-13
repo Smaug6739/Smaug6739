@@ -16,8 +16,8 @@
 ![Editor](https://img.shields.io/badge/Editor-GoLand%20IDEA-informational?style=flat&logo=Editor&logoColor=white&color=2bbc8a)
 
 ![Code](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
+![Code](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
 ![Code](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
-![Code](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a) 
 ![Code](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a) 
 ![Code](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a) 
 ![Code](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
@@ -43,3 +43,7 @@
 ## 🔗 Contact
 
 **You can contact me on discord ([Smaug#6739](https://discord.com/users/611468402263064577)) or by email ([raphael.veauville@gmail.com](mailto:raphael.veauville@gmail.com)). Ask me about anything, I am happy to help 🤗**
+
+## 🥰 Support
+
+You can support me by donating on [buy me a coffee](https://www.buymeacoffee.com/smaug6739) 💖
