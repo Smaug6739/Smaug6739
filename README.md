@@ -46,4 +46,4 @@
 
 ## 🥰 Support
 
-You can support me by donating on [buy me a coffee](https://www.buymeacoffee.com/smaug6739) 💖
+**You can support me by donating on [buy me a coffee](https://www.buymeacoffee.com/smaug6739) 💖**
