@@ -13,7 +13,7 @@
 ![Editor](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Editor&logoColor=white&color=2bbc8a)
 ![Editor](https://img.shields.io/badge/Editor-Visual%20Studio-informational?style=flat&logo=Editor&logoColor=white&color=2bbc8a)
 ![Editor](https://img.shields.io/badge/Editor-Inteliji%20IDEA-informational?style=flat&logo=Editor&logoColor=white&color=2bbc8a)
-![Editor](https://img.shields.io/badge/Editor-GoLand%20IDEA-informational?style=flat&logo=Editor&logoColor=white&color=2bbc8a)
+![Editor](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=Editor&logoColor=white&color=2bbc8a)
 
 ![Code](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
 ![Code](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
