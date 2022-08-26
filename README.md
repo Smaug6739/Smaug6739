@@ -22,6 +22,7 @@
 ![Code](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a) 
 ![Code](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
 ![Code](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
+![Code](https://img.shields.io/badge/Code-SCSS-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
 ![Code](https://img.shields.io/badge/Code-Vue.js-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
 
 ![Database](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=Databases&logoColor=white&color=2bbc8a)
