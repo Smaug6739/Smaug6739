@@ -6,6 +6,10 @@
 🗨️ If you want to chat with me you can do it [on discord](https://discord.com/users/611468402263064577) or by mail [raphael.veauville@gmail.com](mailto:raphael.veauville@gmail.com)  
 🎈 Ask me about anything, I am happy to help
 
+```js
+const me = developers.find(dev => dev.name === 'Enzo')
+```
+
 ## 🛠 Technologies & tools
 
 ![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=OS&logoColor=white&color=2bbc8a)
