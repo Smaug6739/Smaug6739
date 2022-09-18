@@ -7,7 +7,7 @@
 🎈 Ask me about anything, I am happy to help
 
 ```js
-const me = developers.find(dev => dev.name === 'Enzo')
+const me = developers.find(dev => dev.name === 'Smaug#6739')
 ```
 
 ## 🛠 Technologies & tools
