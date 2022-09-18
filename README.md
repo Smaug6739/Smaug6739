@@ -9,6 +9,7 @@
 ```js
 const me = developers.find(dev => dev.name === 'Smaug#6739')
 ```
+---
 
 ## 🛠 Technologies & tools
 
