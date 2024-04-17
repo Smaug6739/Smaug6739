@@ -42,11 +42,6 @@ const me = developers.find(dev => dev.name === 'Smaug#6739')
 - **🐺 [Werewolf bot](https://github.com/Smaug6739/Werewolf-bot) is a french discord bot to play werewolf games**
 - **🧲 [Spiritus](https://github.com/Smaug6739/Spiritus) is a multi-function discord bot written in Typescript**
 
-
-## 📈 Stats
-
-![Smaug GitHub stats](https://github-readme-stats.vercel.app/api?username=Smaug6739&show_icons=true&theme=radical)
-
 ## 🔗 Contact
 
 **You can contact me on discord ([Smaug#6739](https://discord.com/users/611468402263064577)) or by email ([raphael.veauville@gmail.com](mailto:raphael.veauville@gmail.com)). Ask me about anything, I am happy to help 🤗**
