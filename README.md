@@ -3,7 +3,7 @@
 😃 Hi, my name is Raphaël Veauville  
 👀 I like technology, sciences and programming  
 📗 I’m currently learning C++ and Go  
-🗨️ If you want to chat with me you can do it [on discord](https://discord.com/users/611468402263064577) or by mail [raphael.veauville@gmail.com](mailto:raphael.veauville@gmail.com)  
+🗨️ If you want to chat with me you can do it [on discord](https://discord.com/users/611468402263064577) or by mail [veauville.raphael@gmail.com](mailto:veauville.raphael@gmail.com)  
 🎈 Ask me about anything, I am happy to help
 
 ```js
