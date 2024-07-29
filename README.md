@@ -37,7 +37,7 @@ const me = developers.find(dev => dev.name === 'Smaug#6739')
 ## 🔥 Open source projects
 
 - **🏷️ [Eodomius](https://github.com/Eodomius) is an instant chat built with a microservices architecture**
-- **📚 [Alexandrie](https://alexandrie-hub.fr/) Database with scienficic and programming courses**
+- **📚 [Alexandrie](https://alexandrie-hub.fr/) A beautiful markdown note-taking app**
 - **⚖️ [Sheweny](https://github.com/Sheweny/framework) is a powerful framework to create discord bots with discord.js in Javascript or Typescript**
 - **🐺 [Werewolf bot](https://github.com/Smaug6739/Werewolf-bot) is a french discord bot to play werewolf games**
 - **🧲 [Spiritus](https://github.com/Smaug6739/Spiritus) is a multi-function discord bot written in Typescript**
