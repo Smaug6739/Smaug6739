@@ -43,7 +43,3 @@ const me = developers.find(dev => dev.name === 'Smaug#6739')
 ## 🔗 Contact
 
 **You can contact me on discord ([Smaug#6739](https://discord.com/users/611468402263064577)) or by email ([raphael.veauville@gmail.com](mailto:veauville.raphael@gmail.com)). Ask me about anything, I am happy to help 🤗**
-
-## 🥰 Support
-
-**You can support me by donating on [buy me a coffee](https://www.buymeacoffee.com/smaug6739) 💖**
